@@ -1,0 +1,17 @@
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantForStaff.exe.config
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantForStaff.exe
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantForStaff.pdb
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantClass.dll
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantClass.pdb
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.csprojResolveAssemblyReference.cache
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.Form1.resources
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.Properties.Resources.resources
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.csproj.GenerateResource.Cache
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.exe
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.pdb
+D:\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantForStaff.exe.config
+D:\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.exe
+D:\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.pdb
+D:\Uni\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\bin\Debug\RestaurantForStaff.exe.config
+D:\Uni\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.exe
+D:\Uni\UniversityOfGreenwich\Programming Distributed Components\Food2Updp\Food2U_TudorB\RestaurantForStaff\obj\Debug\RestaurantForStaff.pdb

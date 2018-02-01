@@ -1,0 +1,5 @@
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\DistanceCalculator\bin\Debug\DistanceCalculator.dll
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\DistanceCalculator\obj\Debug\DistanceCalculator.csprojResolveAssemblyReference.cache
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\DistanceCalculator\obj\Debug\DistanceCalculator.dll
+D:\Programming Distributed Components\Food2Updp\Food2U_TudorB\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

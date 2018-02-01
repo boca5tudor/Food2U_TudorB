@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Food2U_TudorB.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Food2U</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder> 
+     <!-- Bootstrap Core CSS -->
+    <link href="style/bootstrap.css" rel="stylesheet"/>
+
+    <!-- Custom CSS -->
+    <link href="style/style.css" rel="stylesheet"/>
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"/>
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css"/>
+
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+            <h1>Food2U by Tudor Boca</h1>
+            <div class="navbar">
+                <div class="nav-tabs">
+                    <ul>
+                    <li><a href="Index.aspx">Home</a></li>
+                    <li><a href="Login.aspx">Login</a></li>
+                    <li><a href="RestaurantSearch.aspx">Search Restaurants</a></li>
+                    <li><a href="SearchByDistance.aspx">Search By Distance</a></li>
+                    <li><a href="SearchGridView.aspx">Search Grid View</a></li>                              
+                    <li><button id="logoutbtn" type="button" onclick="alert('You have been logged out')" >Log out</button></li>                        
+                        </ul> 
+                </div>                                     
+                </div>
+            </div>
+    <div class="container">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+    </div>           
+    </form>
+    <script src="scripts/ai.0.15.0-build58334.js"></script>
+</body>
+</html>

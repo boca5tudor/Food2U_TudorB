@@ -1,0 +1,48 @@
+﻿
+body{
+padding: 5px;
+margin: 5px;  
+background-size: cover;
+   }
+.wrapper
+{
+ margin:auto;
+ width:1400px;  
+
+}
+.container
+{
+    background-color:aquamarine;
+    
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    min-height: 530px;
+    
+}
+.navbar
+{
+    background-color:azure;  
+    padding: 3px;
+      
+}
+
+.nav-tabs ul 
+{
+   
+    border-right: 1px solid rgb(10, 85, 125);
+    border-left: 1px solid rgb(67, 153, 200);
+   
+}
+
+.nav-tabs ul li 
+{    
+      display:inline-block;    
+}
+.nav-tabs ul li a
+{
+     padding: 8px 20px;     
+    
+}
+
+
